@@ -25,4 +25,6 @@ It highlights how eviction rates vary by income, race, and neighborhood, informi
 
 👉 [View Notebook on GitHub](https://github.com/DataPhil17)
 
+---
+
 [⬅️ Back to Home](../index.md)
