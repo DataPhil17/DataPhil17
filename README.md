@@ -3,7 +3,7 @@
 # Philippe Louis Jr. | Data Science Portfolio
 
 Welcome to my Data Science Portfolio!  
-This repository hosts my projects in **Machine Learning, NLP, Data Visualization, and Predictive Analytics**.
+This repository hosts my projects. 
 
 🌐 Visit the full site: [https://dataphil17.github.io/DataPhil17/](https://dataphil17.github.io/DataPhil17/)
 
