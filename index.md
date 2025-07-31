@@ -1,17 +1,5 @@
 <p align="center">
-  <a href="projects/nlp.md" style="
-      display:inline-block;
-      padding:10px 20px;
-      background: linear-gradient(90deg, #6a0dad, #32cd32);
-      color:white;
-      text-decoration:none;
-      border-radius:8px;
-      font-weight:bold;
-      box-shadow: 0px 4px 6px rgba(0,0,0,0.2);
-      transition: transform 0.2s;
-  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    🔍 View Project
-  </a>
+  <img src="banner.png" alt="Philippe Louis Data Science Portfolio Banner" width="100%">
 </p>
 
 # 👋🏾 Hi, I'm Philippe Louis Jr.
