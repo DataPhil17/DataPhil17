@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**DataPhil17/DataPhil17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Philippe Louis Jr. | Data Science Portfolio
 
-Here are some ideas to get you started:
+Welcome to my Data Science Portfolio!  
+This repository hosts my projects in **Machine Learning, NLP, Data Visualization, and Predictive Analytics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Visit the full site: [https://dataphil17.github.io/DataPhil17/](https://dataphil17.github.io/DataPhil17/)
+
+## 📂 Portfolio Projects
+- [NLP: Student Feedback Sentiment Analysis](projects/nlp.md)
+- [Machine Learning: Spotify Genre Prediction](projects/ml.md)
+- [Data for Social Good: NYC Eviction Trends](projects/socialgood.md)
+- [Predictive Analytics: Healthcare Outcomes](projects/predictive.md)
+- [Dashboard Visualization: US Unemployment Trends](projects/viz.md)
+
+📧 Contact: pjrlouis115@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/plouis-chm/) | [GitHub](https://github.com/DataPhil17)
+
