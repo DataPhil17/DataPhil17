@@ -24,3 +24,5 @@ It uses healthcare data to identify risk factors and support decision-making for
 - Key predictors: length of stay, comorbidities, and prior admissions  
 
 👉 [View Notebook on GitHub](https://github.com/DataPhil17)
+
+[⬅️ Back to Home](../index.md)
