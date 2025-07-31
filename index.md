@@ -30,17 +30,82 @@ Using NLP and machine learning to classify student feedback and uncover what dri
   </a>
 </p>
 
-### [Machine Learning: Spotify Genre Prediction](projects/ml.md)
+---
+
+### 🎶 Machine Learning: Spotify Genre Prediction
 Predicting music genres with machine learning models trained on audio features.
 
-### [Data for Social Good: NYC Eviction Trends](projects/socialgood.md)
+<p>
+  <a href="projects/ml.md" style="
+      display:inline-block;
+      padding:10px 20px;
+      background-color:#0366d6;
+      color:white;
+      text-decoration:none;
+      border-radius:6px;
+      font-weight:bold;
+      ">
+    🔍 View Project
+  </a>
+</p>
+
+---
+
+### 🏙️ Data for Social Good: NYC Eviction Trends
 Mapping eviction patterns in NYC and analyzing their relationship to income and housing programs.
 
-### [Predictive Analytics: Healthcare Outcomes](projects/predictive.md)
+<p>
+  <a href="projects/socialgood.md" style="
+      display:inline-block;
+      padding:10px 20px;
+      background-color:#0366d6;
+      color:white;
+      text-decoration:none;
+      border-radius:6px;
+      font-weight:bold;
+      ">
+    🔍 View Project
+  </a>
+</p>
+
+---
+
+### 🩺 Predictive Analytics: Healthcare Outcomes
 Building models to forecast patient readmission risk and improve healthcare efficiency.
 
-### [Dashboard Visualization: US Unemployment Trends](projects/viz.md)
+<p>
+  <a href="projects/predictive.md" style="
+      display:inline-block;
+      padding:10px 20px;
+      background-color:#0366d6;
+      color:white;
+      text-decoration:none;
+      border-radius:6px;
+      font-weight:bold;
+      ">
+    🔍 View Project
+  </a>
+</p>
+
+---
+
+### 📊 Dashboard Visualization: US Unemployment Trends
 Interactive data dashboard tracking U.S. unemployment trends over the past decade.
+
+<p>
+  <a href="projects/viz.md" style="
+      display:inline-block;
+      padding:10px 20px;
+      background-color:#0366d6;
+      color:white;
+      text-decoration:none;
+      border-radius:6px;
+      font-weight:bold;
+      ">
+    🔍 View Project
+  </a>
+</p>
+
 
 ---
 
