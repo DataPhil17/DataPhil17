@@ -25,4 +25,6 @@ It uses healthcare data to identify risk factors and support decision-making for
 
 👉 [View Notebook on GitHub](https://github.com/DataPhil17)
 
+---
+
 [⬅️ Back to Home](../index.md)
