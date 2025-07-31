@@ -13,8 +13,22 @@ Much of my professional career has been as a Science and Math teacher, where I a
 
 ## Featured Projects
 
-### [NLP: Student Feedback Sentiment Analysis](projects/nlp.md)
+### 📝 NLP: Student Feedback Sentiment Analysis
 Using NLP and machine learning to classify student feedback and uncover what drives satisfaction.
+
+<p>
+  <a href="projects/nlp.md" style="
+      display:inline-block;
+      padding:10px 20px;
+      background-color:#0366d6;
+      color:white;
+      text-decoration:none;
+      border-radius:6px;
+      font-weight:bold;
+      ">
+    🔍 View Project
+  </a>
+</p>
 
 ### [Machine Learning: Spotify Genre Prediction](projects/ml.md)
 Predicting music genres with machine learning models trained on audio features.
