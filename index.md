@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Philippe Louis Data Science Portfolio Banner" width="100%">
+</p>
+
 # 👋🏾 Hi, I'm Philippe Louis Jr.
 
 **Aspiring Data Scientist | AI/ML Enthusiast**
