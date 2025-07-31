@@ -23,5 +23,5 @@ This project creates an interactive dashboard to track unemployment trends acros
 - Educational attainment strongly correlated with lower unemployment rates  
 
 👉 [View Notebook/Dashboard](https://github.com/DataPhil17)
-
+---
 [⬅️ Back to Home](../index.md)
