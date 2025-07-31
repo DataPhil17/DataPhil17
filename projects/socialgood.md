@@ -24,3 +24,5 @@ It highlights how eviction rates vary by income, race, and neighborhood, informi
 - HPD-supported properties had **lower eviction rates** than non-HPD buildings  
 
 👉 [View Notebook on GitHub](https://github.com/DataPhil17)
+
+[⬅️ Back to Home](../index.md)
