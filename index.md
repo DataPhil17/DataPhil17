@@ -2,8 +2,7 @@
 
 **Aspiring Data Scientist | AI/ML Enthusiast**
 
-I’m pursuing a Master’s in Applied Data Science at Syracuse University, with 3+ years of experience in data analysis, compliance reporting, and program development.  
-As I navigate this career shift I find passion in using **machine learning and data storytelling** to solve real-world problems.
+I am currently pursuing a Master’s in Applied Data Science at Syracuse University's School of Information Studies (iSchool). With over 3 years of experience in data analysis, 1+ year in compliance reporting, and 2+ years in program development, I bring both technical expertise and strategic insight to my work. Much of my professional career has been as a Science and Math teacher, where I approached teaching with the mindset of a data-driven problem solver, tailoring lessons to measurably improve student performance. As I transition into data science, I have secured a role as a Data Coordinator, advancing my career pipeline by leveraging **machine learning and data storytelling** to solve real-world challenges and deliver impactful insights.
 
 📍 NY   
 🔗 [LinkedIn](https://www.linkedin.com/in/plouis-chm/) | [GitHub](https://github.com/DataPhil17)
