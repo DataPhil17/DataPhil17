@@ -39,4 +39,4 @@ This portfolio showcases my skills in:
 
 ---
 
-⭐️ Check back soon — I’ll be adding more projects as I continue my journey to becoming a Data Scientist specializing in AI & ML.
+⭐️ Check back soon — I’ll be actually getting these projects done and more as I continue my journey to becoming a Data Scientist.
