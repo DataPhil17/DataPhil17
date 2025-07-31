@@ -25,4 +25,6 @@ The goal is to explore how measurable characteristics of music relate to genre c
 
 👉 [View Notebook on GitHub](https://github.com/DataPhil17)
 
+---
+
 [⬅️ Back to Home](../index.md)
