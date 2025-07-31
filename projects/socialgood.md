@@ -27,4 +27,16 @@ It highlights how eviction rates vary by income, race, and neighborhood, informi
 
 ---
 
-[⬅️ Back to Home](../index.md)
+<p align="center">
+  <a href="../index.md" style="
+      display:inline-block;
+      padding:10px 20px;
+      background-color:#0366d6;
+      color:white;
+      text-decoration:none;
+      border-radius:6px;
+      font-weight:bold;
+      ">
+    ⬅️ Back to Home
+  </a>
+</p>
