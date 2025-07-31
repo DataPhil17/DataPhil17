@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Philippe Louis Data Science Portfolio Banner" width="100%">
+  <img src="assets/banner.png" alt="Philippe Louis Data Science Portfolio Banner" width="100%">
 </p>
 
 # 👋🏾 Hi, I'm Philippe Louis Jr.
